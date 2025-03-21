@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# Python virtual environment
+myenv/
+
+# Temp / debug files
+tempCodeRunnerFile.cpp
+tempCodeRunnerFile.py
+
+# Downloaded dataset or large folder
+scowl-2020.12.07/
+
+# If you want to ignore CSV or text datasets, add:
+# english_word_frequency.csv
+# words.txt
+# words_alpha.txt
+
+symspell
+download_kaggle.py
